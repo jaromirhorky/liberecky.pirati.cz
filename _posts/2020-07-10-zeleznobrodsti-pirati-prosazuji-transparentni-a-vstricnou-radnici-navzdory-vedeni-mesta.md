@@ -7,6 +7,7 @@ title: Občane, počkej si! Železnobrodští Piráti prosazují transparentní 
 author: Jan Tempel
 authorId: jan.tempel
 image: posts/2020-07-10-zeleznobrodsti-pirati-prosazuji-transparentni-radnici-navzdory-vedeni-mesta.jpg
+important: true
 ---
 Piráti v Železném Brodě dlouhodobě pracují na přiblížení radnice občanům města, a proto se také zasazují o pevně daný čas občanských interpelací během zasedání zastupitelstva. V praxi jde o to, aby každý občan věděl, kdy se na jeho vyjádření či stížnost dostane a nemusel trávit dlouhé hodiny čekáním.
 
