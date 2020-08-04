@@ -13,6 +13,7 @@ description: >-
 keywords: piráti, liberecký kraj, česká pirátská strana, svoboda, demokracie, krajské sdružení, liberec, jablonec, turnov, semily, tanvald, železný brod, nový bor, česká lípa, frýdlant
 url: https://liberecky.pirati.cz
 
+mediaStorage: liberecky
 
 administrator:
   email: marek.forster@pirati.cz, vaclav.zidek@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
