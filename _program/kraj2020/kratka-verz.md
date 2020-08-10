@@ -1,9 +1,13 @@
 ---
-title: Krajský volební program 2020 pro Liberecký kraj
+title: Krátká verze
 uid: program-kraj-2020
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj-2020
-order: 1
+order: 15
+#img: program2020/zdravotnictvi.jpg
+#perex: >
+#  [ text, který se zobrazí na přehledu programových bodů ]
+#intro: [ t
 ---
 
 ## Zdravotnictví kraje
