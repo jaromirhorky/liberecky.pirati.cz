@@ -22,7 +22,6 @@ Digitální, moderní kraj umožňující jednání s úřady z domova. Možnost
 - Ačkoliv je schválený zákon o právu na digitální služby (12/2020 Sb.) nepovinný pro samosprávné celky, tedy i kraj, je našim cílem poskytovat digitální služby jako samozřejmou možnost. Pokud občan preferuje elektronickou komunikaci, bude mu to umožněno a bude to skutečně FUNGOVAT.
 - Dlouhodobým problémem je nejednotné zpracování digitálních územních plánů a velmi nízký počet obcí, které mají územní plán k dispozici ve využitelném strojově čitelném formátu. Jedná se o slabou stránku kraje (SRKL_2021+).
 - Hlavní body pirátské digitalizace kraje:
-  <ul>
   1. Jednání s úřady z domova.
   2. Přehlednost poskytovaných služeb.
   3. Digitalizace samosprávy.

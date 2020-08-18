@@ -44,7 +44,6 @@ Budeme čelit zavádění vendor lock-inů, aby krajská data byla využitelná 
 - Prosadíme na úrovni kraje i obcí využívání otevřených a strojově čitelných dat. Pouze na základě takových údajů lze snadno čelit problémům a nacházet jejich řešení.
 - Budeme čelit zavádění vendor lock-inů, aby krajská data byla využitelná napříč softwary a chceme prosadit využití opensource programů, které uspoří nejen pořizovací náklady, ale i náklady budoucí, například pro export a zveřejňování. V případech, kdy svobodný software nebude k dispozici, chceme využít sdružené pořizování licencí a sjednocení softwaru nejen na úrovni kraje, ale i obcí.
 - Zavedeme:
-  <ul>
   1. Transparentní proces všech fází přípravy i realizace investičních záměrů. Zveřejnění investičního plánu a pasportu liniových staveb v majetku kraje online. Jeho aktualizace budou pravidelně k dispozici pro připomínkování veřejností. 
   2. Transparentní nakládání s veřejnými prostředky ve všech fázích veřejných zakázek - od výběrového řízení přes uzavření smluv, faktury až po výstupy interních kontrol, zveřejníme i nabídky neúspěšných uchazečů. 
   3. Výběr zhotovitelů znaleckých posudků až po konzultaci s příslušnou profesní organizací či jinou relevantní autoritou v oboru. Cílem je maximalizace objektivity a nestrannosti. 
@@ -57,7 +56,6 @@ Budeme čelit zavádění vendor lock-inů, aby krajská data byla využitelná 
 - Zavedeme online databázi rozhodnutí krajského úřadu v samostatné i přenesené působnosti nad rámec zákonem dané povinnosti a zveřejňování uzavřených smluv nad rámec zákona, tedy i pod 50.000 Kč, a to včetně smluv uzavíraných krajem zřizovanými organizacemi.
 - Prosadíme kompletní elektronizaci a ztransparentnění procesu přidělování krajských dotací. Příjemci budou také po dobu udržitelnosti projektu prostřednictvím online portálu dokládat výstupy z věcného plnění. Veškeré dokumenty, stejně jako jmenovitá hodnocení žádostí včetně bodování, budou zveřejněny prostřednictvím portálu.
 - Vše musí propojovat přehledné webové stránky jako rozcestník ke všem důležitým informacím. Mezi tyto webové stránky a informace patří také: 
-  <ul>
   1. Databáze aktuálních krajských strategických dokumentů a jejich postupná harmonizace.  
   2. Propagace krajských dotačních titulů a grantů. 
   3. Formuláře pro styk občanů s úřadem. 

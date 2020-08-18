@@ -33,16 +33,14 @@ Veřejná hromadná doprava musí být dostupná a dlouhodobě atraktivnější 
 #### CO PRO TO BUDEME DĚLAT? 
 
 - Budeme nastavovat systém z pohledu 97 % lidí, kteří chtějí jet z místa A do místa B co nejjednodušeji. Kontrolu těch, kteří systém chtějí obcházet, budeme řešit až v druhé vlně. Systém musí být maximálně jednoduchý a dávat smysl.
-- Zlepšíme nastavení dopravního systému: 
-    <ul>
-    - Plánování dopravy na základě dat, na míru potřebám každé lokality. 
-    - Stanovení minimálního standardu dopravní obslužnosti ve všech regionech, který bude vyší než stávající.
-    - Optimalizace intervalů, časová koordinace, návaznost, přestupní uzly, pohodlí, spolehlivost, kapacita, cena.
-    - Jednotný a přehledný tarif bez zbytečné represe a karet.
-    - Zachovaný předplatní časový tarif.
-    - Co nejjednodušší přechod mezi jednotlivými formami cestování: kolo, sdílené auto, vlastní auto s možností zaparkování, autobus, vlak. Stavba přestupních terminálů včetně P+R a B+R.
-    - Stanice VHD musí obsahovat informace o spojích (i návazných), přístřešek, odpadkový koš a zpevněný podklad, případně místo k sezení (sklopné či opěru).
-
+- Zlepšíme nastavení dopravního systému:
+    1. Plánování dopravy na základě dat, na míru potřebám každé lokality. 
+    2. Stanovení minimálního standardu dopravní obslužnosti ve všech regionech, který bude vyší než stávající.
+    3. Optimalizace intervalů, časová koordinace, návaznost, přestupní uzly, pohodlí, spolehlivost, kapacita, cena.
+    4. Jednotný a přehledný tarif bez zbytečné represe a karet.
+    5. Zachovaný předplatní časový tarif.
+    6. Co nejjednodušší přechod mezi jednotlivými formami cestování: kolo, sdílené auto, vlastní auto s možností zaparkování, autobus, vlak. Stavba přestupních terminálů včetně P+R a B+R.
+    7. Stanice VHD musí obsahovat informace o spojích (i návazných), přístřešek, odpadkový koš a zpevněný podklad, případně místo k sezení (sklopné či opěru).
 - Propojíme dopravní systémy mezi sousedními regiony (kraji, regiony, zahraničím).
 - Zajistíme otevřená data o provozu. 
 - Zajistíme uživatelsky přívětivou a datově otevřenou aplikaci pro uživatele i firmy. 

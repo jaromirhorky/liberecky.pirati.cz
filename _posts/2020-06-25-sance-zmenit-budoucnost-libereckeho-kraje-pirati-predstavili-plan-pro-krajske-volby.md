@@ -6,6 +6,7 @@ layout: post
 title: Šance změnit budoucnost Libereckého kraje, piráti představili plán pro krajské volby 
 author: Jan Hruška
 image: posts/2020-06-25-sance-zmenit-budoucnost-libereckeho-kraje-pirati-predstavili-plan-pro-krajske-volby.jpg
+important: true
 ---
 
 Pirátská strana Libereckého kraje ve středu představila čelní kandidáty do vedení kraje. Ti odprezentovali své vize a cíle, čímž odstartovali kampaň pro podzimní volby.

@@ -4,7 +4,7 @@
 - groupUid: volby-2020  # identifier of the group, to be used in program point
   title: Volby 2020     # title of the campaign group
   campaigns:
-    - title: Kandidátka pro krajské volby v Libereckém kraji 2020   # individual campaigns within the group
+    - title: Krajské volby v Libereckém kraji 2020   # individual campaigns within the group
       categoryUid: kraj2020
     #- title: Senát
     #  categoryUid: senat

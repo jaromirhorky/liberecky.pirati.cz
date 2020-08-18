@@ -24,7 +24,7 @@ Kraj musí pokračovat v projektu Místní Agendy 21, Zdravý kraj. Dále musí
 - Originální přístup a seberealizace nadaných lidí je náš motor do budoucna. 
 - Využití stávajících nevyužívaných lokalit a objektů coby součást udržitelného rozvoje.
 
- ### CO PRO TO BUDEME DĚLAT? 
+### CO PRO TO BUDEME DĚLAT?
 
 - V době ekonomických škrtů se mezi prvními odstavují projekty rozvoje a upřednostňuje se financování paušálních výdajů. Investice do rozvoje je chytré řešení s návratností nejen finanční.
 - Díky podpoře regionálních produktů s velkou přidanou hodnotou, tradičních řemesel a kvalitních služeb bude náš kraj stabilní a jedinečný. Součástí této podpory je spolupráce při zakládání podnikání, spolufinancování projektů tradiční řemeslné výroby, správa databáze regionálních produktů a jejich kontrola.
